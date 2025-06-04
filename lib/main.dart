@@ -74,6 +74,8 @@ class Homepage extends StatelessWidget {
         title: " Teachers info ",
         destination: item(), ),
 
+        ListItem(title: title, destination: destination)
+
         
         ],
 
