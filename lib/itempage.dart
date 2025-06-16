@@ -76,6 +76,10 @@ class item extends StatelessWidget {
                 Icon(
                   Icons.facebook
                 ),
+
+                Icon(
+                  Icons.facebook
+                ),
               ],
               
               )
