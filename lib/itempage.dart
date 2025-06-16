@@ -77,9 +77,7 @@ class item extends StatelessWidget {
                   Icons.facebook
                 ),
 
-                Icon(
-                  Icons.facebook
-                ),
+                
               ],
               
               )
